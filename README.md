@@ -1,5 +1,8 @@
 # Preface
 The software was developed with the support of the Barnaul bus station in 2022 in the form of a course project by 2nd-year students of the Faculty of Information Technology of the PI-03 group.
+
+In Russian: https://github.com/Rol225/Dispatcher-s-Terminal/blob/main/README_RU.md
+
 # Dispatcher-s-Terminal
 Nowadays it is difficult to imagine a modern air-, auto-, railway- station without public address systems for various purposes. These are passenger information systems and alerts inside or from the outside of train stations.
 

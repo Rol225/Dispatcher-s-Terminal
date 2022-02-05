@@ -1,6 +1,8 @@
 # Preface
 The software was developed with the support of the Barnaul bus station in 2022 in the form of a course project by 2nd-year students of the Faculty of Information Technology of the PI-03 group.
 
+Server part: https://github.com/lehaTumbaev/vokzal-documentation
+
 In Russian: https://github.com/Rol225/Dispatcher-s-Terminal/blob/main/README_RU.md
 
 # Dispatcher-s-Terminal

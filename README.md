@@ -40,6 +40,6 @@ To implement the client part in the WebStorm development environment, a stack of
 A local Chromium local storage cache was used to save user settings.
 
 # Layout
-The interface layout was developed in the Company, link: https://www.figma.com/file/GajbrYCreXQVPObTAROUnH/%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB-%D0%B4%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80%D0%B0?node-id=0%3A1
+The interface layout was developed in the Figma, link: https://www.figma.com/file/GajbrYCreXQVPObTAROUnH/%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB-%D0%B4%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80%D0%B0?node-id=0%3A1
 
 Application layout in code, link: https://github.com/Rol225/Dispatcher-Terminal-layout
